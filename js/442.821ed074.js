@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkimooc_admin"]=self["webpackChunkimooc_admin"]||[]).push([[442],{4442:function(n,c,s){s.r(c),s.d(c,{default:function(){return i}});var t=s(6252);const u={class:""};var a={setup(n){return(n,c)=>((0,t.wg)(),(0,t.iD)("div",u,"401"))}};const e=a;var i=e}}]);
+//# sourceMappingURL=442.821ed074.js.map
